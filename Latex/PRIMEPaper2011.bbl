@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{stonefly:article}
+D.~A. Lytle, Martinez-Munoz G., W.~Zhang, N.~Larios, L.~Shapiro, R.~Paasch,
+  A.~Moldenke, E.~A. Mortensen, S.~Todorovic, and T.~G. Dietterich.
+\newblock {Automated processing and identification of benthic invertebrate
+  samples}.
+\newblock {\em Journal of the North American Benthological Society},
+  29(3):867--874, 2010.
+
+\bibitem{automated_taxon:book}
+Natural History~Museum {London, UK}.
+\newblock {\em {Automated Taxon Identification in Systematics: Theory,
+  Approaches and Applications}}.
+\newblock CRC Press, 2007.
+
+\bibitem{opencv_library}
+G.~Bradski.
+\newblock {The OpenCV Library}.
+\newblock {\em Dr. Dobb's Journal of Software Tools}, 2000.
+
+\bibitem{hog:article}
+Navneet Dalal and Bill Triggs.
+\newblock {Histograms of Oriented Gradients for Human Detection}.
+\newblock {\em CVPR}, I:886--893, 2005.
+
+\bibitem{sift:article}
+D.~G. Lowe.
+\newblock {Distinctive Image Features from Scale-Invariant Keypoints}.
+\newblock {\em International Journal of Computer Vision}, 60(2):91--110, 2004.
+
+\end{thebibliography}
